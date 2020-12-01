@@ -1,6 +1,6 @@
 # FreshworksAssmt_Sarath
 
-<b>Freshworks – Backend Assignment <\b> 
+<b>Freshworks – Backend Assignment<\b> 
   
 Build a file-based key-value data store that supports the basic CRD (create, read, and delete)
 operations. This data store is meant to be used as a local storage for one single process on one
